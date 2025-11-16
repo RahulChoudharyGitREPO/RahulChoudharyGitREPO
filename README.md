@@ -1,6 +1,6 @@
 # Hi there, I'm Rahul 👋
 
-### 🚀 Full-Stack Developer | Mobile Dev | DevOps Learner | System Design Enthusiast
+### 🚀 Full-Stack Developer | Mobile Dev | DevOps| System Design | Low Level Design
 
 I build scalable Full Stack systems, clean mobile apps, and production-ready full‑stack projects. Currently mastering **NestJS, Docker, DevOps, System Design**, and building real‑world apps like a **Train Booking System**, **QueueFree**, and a **UPI Wallet simulation**.
 
