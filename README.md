@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/zYz4wYp.png" width="100%" />
-</p>
 
 # Hi there, I'm Rahul 👋
 
