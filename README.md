@@ -3,7 +3,7 @@
 # 💫 Hi there, I'm Rahul 👋
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RahulChoudharyGitREPO&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=RahulChoudharyGitREPO&label=VISITORS&labelColor=%2320222b&countColor=%2338bdf8&style=for-the-badge" alt="Visitors" />
 </p>
 
 
