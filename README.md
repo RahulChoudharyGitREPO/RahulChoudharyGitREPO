@@ -112,14 +112,6 @@ I build high-scale distributed backend systems, smooth responsive mobile apps, a
 
 ---
 
-### 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulChoudharyGitREPO&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
-</p>
-
----
-
 ### ✍️ Random Dev Quote
 
 <p align="center">
