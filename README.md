@@ -3,14 +3,15 @@
 # 💫 Hi there, I'm Rahul 👋
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=RahulChoudharyGitREPO&label=VISITORS&labelColor=%2320222b&countColor=%2338bdf8&style=for-the-badge" alt="Visitors" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Full-Stack+Developer+%7C+Mobile+Dev;DevOps+%26+Cloud+Enthusiast;500%2B+DSA+Problems+Solved" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif" width="580px" alt="Coding GIF" />
+</p>
 
 <p align="center">
-  <a href="https://github.com/RahulChoudharyGitREPO">
-    <img src="https://visitcount.itsvg.in/api?id=RahulChoudharyGitREPO&icon=0&color=0" alt="Visitor Count" />
-  </a>
+  <img src="https://api.visitorbadge.io/api/visitors?path=RahulChoudharyGitREPO&label=PROFILE+VIEWS&labelColor=%23181924&countColor=%2338bdf8&style=for-the-badge" alt="Visitors" />
 </p>
 
 </div>
