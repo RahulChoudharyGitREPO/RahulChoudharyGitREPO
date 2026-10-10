@@ -1,7 +1,6 @@
 <div align="center">
 
 # 💫 Hi there, I'm Rahul 👋
-### 🚀 Full-Stack Developer | Mobile Dev | DevOps | System Design | Low Level Design
 
 <p align="center">
   <a href="https://github.com/RahulChoudharyGitREPO">
