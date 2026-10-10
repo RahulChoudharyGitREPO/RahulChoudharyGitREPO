@@ -3,6 +3,11 @@
 # 💫 Hi there, I'm Rahul 👋
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RahulChoudharyGitREPO&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+
+<p align="center">
   <a href="https://github.com/RahulChoudharyGitREPO">
     <img src="https://visitcount.itsvg.in/api?id=RahulChoudharyGitREPO&icon=0&color=0" alt="Visitor Count" />
   </a>
