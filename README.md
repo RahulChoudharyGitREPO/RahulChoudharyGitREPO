@@ -90,14 +90,6 @@ I build high-scale distributed backend systems, smooth responsive mobile apps, a
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RahulChoudharyGitREPO&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Rahul's Trophies" />
-</p>
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -112,22 +104,26 @@ I build high-scale distributed backend systems, smooth responsive mobile apps, a
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=RahulChoudharyGitREPO&theme=tokyonight&hide_border=false" width="100%" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=RahulChoudharyGitREPO&theme=tokyonight&hide_border=false" width="100%" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
 </div>
 
-### 🔝 Top Contributed Repositories
+---
+
+### 📈 Contribution Activity
+
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=RahulChoudharyGitREPO&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulChoudharyGitREPO&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </p>
 
 ---
 
 ### ✍️ Random Dev Quote
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
 ---
